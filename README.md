@@ -1,0 +1,4 @@
+JS-Sullivan
+===========
+
+JS Sullivan Development, LLC is a privately operated real estate development and construction firm. Based in San Francisco, JS Sullivan specializes in the development and construction of new small to medium sized in-fill mixed use projects. It directly manages every aspect of the development process ranging from acquisition, entitlements, construction and sales. With its team of locally based architects, engineers and consultants, it has successfully completed every project it has engaged in. JS Sullivan's proud record of successfully completed projects is recognized by its lenders, partners and industry associates. Its competitive advantage stems from its direct management abilities in development and construction resulting in low development cost. JS Sullivan's impeccable record of completed projects is a testament of its commitment to the success of its projects.
