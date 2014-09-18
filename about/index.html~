@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>JS Sullivan Development</title>
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://fast.fonts.com/jsapi/c9760b77-2ba0-49eb-9deb-f1b5f1d4f68a.js"></script>
+</head>
+
+<body>
+	<div id="wrapper">
+        <div id="header"><h1><a href="../"><span>JS Sullivan Development</span></a></h1></div>
+        <div id="menu">
+        	<ul class="left_menu">
+            	<li><a href="../">HOME</a></li>
+              	<li class="current"><a href="../about/">ABOUT US</a></li>
+              	<li><a href="../projects/">PROJECTS</a></li>
+              	<li><a href="../contact/">CONTACT</a></li>
+            </ul>
+        </div>
+      <div id="contents">
+        <p>JS Sullivan Development, LLC, an affiliate of JPS Builders, Inc. is a privately operated real estate development and construction firm.  Based in San Francisco, JS Sullivan specializes in the development and construction of new small to medium sized in-fill mixed use projects.  It directly manages every aspect of the development process ranging from acquisition, entitlements, construction and sales.  With its team of locally based architects, engineers and consultants, it has successfully completed every project it has engaged in.  JS Sullivans proud record of successfully completed projects is recognized by its lenders, partners and industry associates.  Its competitive advantage stems from its direct management abilities in development and construction resulting in low development cost.  JS Sullivans impeccable record of completed projects is a testament of its commitment to the success of its projects.</p>
+        <p class="body_blk">Co-Founder and Managing Partner  Sean Sullivan<br />
+          Co-Founder and General Contractor  John Sullivan</p>
+      </div>
+        <div class="clear"></div>
+        <div id="footer">Copyright © 2010 JS SULLIVAN DEVELOPMENT</div>
+   	</div>
+</body>
+</html>

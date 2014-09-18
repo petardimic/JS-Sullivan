@@ -1,0 +1,100 @@
+@charset "utf-8";
+
+/* ================== BOARD ================== */
+
+#board_contents {width:900px; }
+
+/* Frame */
+.sb { width:900px; }
+#welcome { width:400px; font-size:11px; color:#555555; padding-bottom:10px; float:left; }
+#member {width:300px; text-align:right; font-size:10px; }
+#member input { color:#555555; font-size:10px; }
+.mbt_style {width:150px; padding:3px; }
+#member dt { float:left; width:80px; color:#999999; font-size:10px; }
+
+
+
+/* WRITE.VIEW */
+#write_top { border-bottom:1px solid #efefef; padding:5px 10px; font-size:13px; font-weight:bold; color:#4f97c4; }
+#view_top { border-bottom:1px solid #efefef; border-top:1px solid #efefef; padding:5px 10px; font-size:13px; font-weight:bold; color:#4f97c4; }
+
+.cont_style { line-height:22px; }
+.cont_style dt { float:left; width:120px; padding-left:12px; font-size:10px; color:#999999; }
+.cont_style dd { font-size:13px; color:#555555; }
+.cont_style dd input { border:1px solid #ddeef9; padding:3px; width:560px; }
+.cont_style dd textarea { border:1px solid #ddeef9; padding:3px; width:560px; height:200px; }
+
+.sb_buttons { border-top:1px solid #efefef; text-align:right; width:950px; padding:7px 0;  }
+.bt_style { padding:5px; border:0px; font-size:10px; color:#777777; }
+
+.view_style { line-height:22px; }
+.view_style dt { float:left; width:120px; padding-left:12px; font-size:10px; color:#999999; }
+.view_style dd { font-size:12px; }
+
+
+/* COMMENT */
+#comments { width:900px; border-top:1px dotted #efefef; margin-bottom:10px; }
+.cm_title { color:#ff0084; font-size:13px; margin-top:5px; }
+.comment_detail { width:950px; }
+.comment_detail dt { width: 55px; float:left; }
+.cm_name { font-size: 11px; color:#333; font-weight:bold; }
+.cm_contents { font-size: 11px; color:#333; font-weight:normal; }
+.cm_date { font-size:10px; color:#b8b8b8; margin-top:7px; }
+
+#cm_write dt { float:left; width:540px; }
+#cm_write textarea { height:50px; width:540px; border:1px solid #ddeef9; font-size:13px; color:#555; padding:3px 5px; }
+#cm_write dd input { width:50px; height:50px; color:#777777; border:0px; }
+#cm_del_bt { float:right; line-height:22px; }
+#cm_del_bt dt { float:left; width:30px; }
+
+#cm_delete { display:none; width:250px; }
+
+
+/* LIST, INDEX */
+#sb_topline, #sb_lists, .sb_buttons {padding:7px 0; width:900px;}
+#sb_topline { font-size:10px; color:#999999; border-bottom:1px solid #efefef; border-top:1px dotted #efefef;}
+#sb_lists { font-size:13px; color:#777777; }
+.sb_buttons { border-top:1px solid #efefef; text-align:right; }
+
+#sb_topline ul { list-style:none; margin:0px; height:20px; }
+#sb_topline li, #sb_lists li { float:left; }
+#sb_lists { width:900px; }
+#sb_lists ul { width:900px; float:left; height:25px; list-style:none; margin:0px; }
+.sb_no { width:70px; margin:0px; padding:0px; text-align:center; font-size:12px; }
+.sb_title { width:480px; color:#555555; font-weight:bold; font-size:12px; line-height:18px; }
+	.sb_title a { color:#579fbd; text-decoration:none;}
+	.sb_title a:hover { color:#c8e5f1; text-decoration:underline; }
+	.sb_title a:visited { color:#579fbd; }
+.sb_writer { width:130px; text-align:center; font-size:12px; }
+.sb_date, .sb_view { width:100px; text-align:center; font-size:12px; }
+
+
+#sb_pagenum { text-align:center; font-size:12px; color:#555; }
+#sb_pagenum a { text-decoration:none; color:#579fbd; }
+#sb_pagenum a:hover { text-decoration:underline; color:#579fbd; }
+
+#search { width:400px; text-align:right; float:right; }
+#search input { width:70px; font-size:12px; }
+#search select { width:70px; border:1px solid #ddeef9; font-size:12px; }
+.sbt_style { padding:3px; width:60px; border:0px; font-size:10px; color:#777777; }
+
+/* Recent List in Upper Folder */
+#Recent { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; }
+#board1, #board2 { width:280px; margin-right:10px; float:left; }
+#board3 { width:280px; float:left; }
+#Recent h3 { width:260px; font-weight:bold; color:#74a0d7; font-size:12px; border-bottom:1px solid #efefef; padding-bottom:5px; margin:0px; }
+#Recent h3 a {text-decoration:none; }
+#Recent h3 a:hover { text-decoration:underline; color:#4dbfdb; }
+#Recent h3 a:visited { text-decoration:none; color:#4dbfdb; }
+.recentList { width:260px; list-style:none; color:#777; float:left; margin:0px; }
+.recentList li { background:url(images/arrow_pink.gif) left 50% no-repeat; padding-left:8px; line-height:22px; border-bottom:1px dotted #efefef; }
+#Recent li a {text-decoration:none;}
+#Recent li a:hover {text-decoration:underline; color:#4dbfdb; }
+#Recent li a:visited {text-decoration:none; color:#a1baed; }
+
+
+/* Photo Index */
+#Photo_Gallery { width:900px; font-family:Verdana, Arial; }
+.Gallery_List  { float:left; width: 220px; height:200px; }
+#Gallery_btns { text-align:right; padding-right:40px; }
+#Gallery_Pagenum { font-size:12px; text-align:center; color:#777; }
